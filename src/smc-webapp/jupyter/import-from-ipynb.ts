@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 Importing from an ipynb object (in-memory version of .ipynb file)
 */

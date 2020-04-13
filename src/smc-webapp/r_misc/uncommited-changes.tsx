@@ -1,5 +1,6 @@
-/**
- * Component that shows a warning message if has_uncommitted_changes is true for more than a few seconds.
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
  */
 
 import * as React from "react";

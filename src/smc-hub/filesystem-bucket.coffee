@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Filesystem based bucket -- same api as gcloud bucket.
 
 Motivation: in KuCalc we use gcsfuse to just mount the smc-blobs bucket

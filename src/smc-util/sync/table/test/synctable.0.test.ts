@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { SyncTable } from "../synctable";
 import { once } from "../../../async-utils";
 import { ClientTest } from "./client-test";

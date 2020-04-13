@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 /*
 This loads code to generally improve the chances things will work when actually
 launched.  This is run during the build process as a test.

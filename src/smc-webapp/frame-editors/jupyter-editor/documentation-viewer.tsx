@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 Frame for viewing documentation.   For example, this appears and
 shows the docstring for a function when you hit shift+tab.
 

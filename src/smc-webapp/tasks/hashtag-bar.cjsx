@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Hashtag bar for selecting which tasks are shown by tags
 ###
 

@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 Information (from the database) about authors of shares,
 and what shares were authored by a given account.

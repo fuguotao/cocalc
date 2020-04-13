@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 React component that describes the output of a cell
 */
 

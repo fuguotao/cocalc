@@ -1,9 +1,6 @@
-/* This is a table of the compute servers.
-   It was mainly used long, long ago before
-   we switched to Kubernetes for our main
-   backend.  It is *still* used now in some
-   special case (with localhost), e.g., for
-   the docker image.  So don't get rid of it!
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
  */
 
 import { Table } from "./types";

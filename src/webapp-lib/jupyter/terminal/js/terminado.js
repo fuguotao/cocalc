@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 define ([], function() {
     "use strict";
     function make_terminal(element, size, ws_url) {

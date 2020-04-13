@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 export const DEFAULT_FONT_SIZE = 14;
 
 // key for new filenames algorithm in account/other_settings and associated default value

@@ -1,4 +1,7 @@
-### 
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
 
 Ping a collection of hosts in parallel using raw sockets (for optimal efficiency) outputing a JSON mapping from hostname
 to ms ping time.

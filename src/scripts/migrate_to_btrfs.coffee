@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 NTHREADS = 8
 
 misc_node = require('misc_node')

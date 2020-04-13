@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 // function completer.
 //
 // completer should be a class that takes an cell instance

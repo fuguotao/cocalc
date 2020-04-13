@@ -1,9 +1,6 @@
-/* This is a table of the store servers.  Like compute_servers,
-   it was mainly used long, long ago before
-   we switched to Kubernetes for our main
-   backend... and it is *still* used now in some
-   special case (with localhost), e.g., for
-   the docker image.  So don't get rid of it!
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
  */
 
 import { Table } from "./types";

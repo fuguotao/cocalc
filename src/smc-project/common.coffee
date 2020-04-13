@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 fs      = require('fs')
 winston = require('winston')
 misc    = require('smc-util/misc')

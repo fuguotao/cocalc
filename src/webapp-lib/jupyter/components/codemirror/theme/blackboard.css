@@ -1,4 +1,12 @@
-/* Port of TextMate's Blackboard theme */
+/* 
+ *  This is the default license template.
+ *  
+ *  File: blackboard.css
+ *  Author: hsy
+ *  Copyright (c) 2020 hsy
+ *  
+ *  To edit this license information: Press Ctrl+Shift+P and press 'Create new License Template...'.
+ */
 
 .cm-s-blackboard.CodeMirror { background: #0C1021; color: #F8F8F8; }
 .cm-s-blackboard .CodeMirror-selected { background: #253B76 !important; }

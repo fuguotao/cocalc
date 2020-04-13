@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 # definition of the common css for webpack
 # used via webpack.config.coffee to add entries to index.html
 

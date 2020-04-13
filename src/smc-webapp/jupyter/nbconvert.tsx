@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 NBConvert dialog -- for running nbconvert
 */
 import { React, Component } from "../app-framework";

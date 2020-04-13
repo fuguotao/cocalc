@@ -1,3 +1,7 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
 
 async          = require('async')
 fs             = require('fs')

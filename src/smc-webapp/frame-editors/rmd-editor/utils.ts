@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { change_filename_extension, path_split } from "smc-util/misc2";
 import { join } from "path";
 

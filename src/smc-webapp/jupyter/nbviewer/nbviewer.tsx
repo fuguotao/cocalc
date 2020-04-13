@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 Viewer for public ipynb files, e.g., on the share server.
 */
 

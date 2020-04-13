@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 // Depends on csslint.js from https://github.com/stubbornella/csslint
 
 // declare global: CSSLint

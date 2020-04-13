@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 /*
  * CoCalc, by SageMath, Inc., (c) 2016, 2017 -- License: AGPLv3
  */

@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // These site-settings are visible to any user (read-only)
 // They contain information like the site's name, contact email addresses, etc.
 

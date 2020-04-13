@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 Evaluate a line of code with the scope containing only a jquery wrapped
 element and whatever is available on window.  Obviously not "safe", but

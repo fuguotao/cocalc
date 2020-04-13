@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 CodeMirror.colorize = (function() {
 
   var isBlock = /^(p|li|div|h\\d|pre|blockquote|td)$/;

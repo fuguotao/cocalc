@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 CodeMirror.defineMode("turtle", function(config) {
   var indentUnit = config.indentUnit;
   var curPunc;

@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 ###############################################################################
 #
 # All of the code below has been dedicated to the public domain by the authors.

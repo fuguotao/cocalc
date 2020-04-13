@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 expect  = require('expect')
 
 cell_utils = require('../cell-utils')

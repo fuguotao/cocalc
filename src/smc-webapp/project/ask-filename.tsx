@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { Component, React, /* ReactDOM,*/ Rendered } from "../app-framework";
 const { file_options } = require("../editor");
 const {

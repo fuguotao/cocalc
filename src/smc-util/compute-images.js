@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 const { defaults, required } = require("smc-util/misc");
 
 const { DEFAULT_COMPUTE_IMAGE } = require("smc-util/db-schema");

@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { PROJECT_UPGRADES } from "smc-util/schema";
 import { plural, capitalize } from "smc-util/misc";
 

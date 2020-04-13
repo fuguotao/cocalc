@@ -1,5 +1,7 @@
-/* Given an immutable.js project object (from the project_map),
-   these functions allow you to query some things about it. */
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
 import { redux } from "../app-framework";
 

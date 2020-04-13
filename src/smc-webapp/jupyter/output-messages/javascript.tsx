@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { List } from "immutable";
 //declare const $: any;
 const $ = require("jquery");

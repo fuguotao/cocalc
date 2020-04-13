@@ -1,7 +1,6 @@
-/* Open CoCalc Server
- * this is a small part of hub_http_server, which serves the main index page and associated assets.
- * - "webapp" refers to files in SMC_ROOT/webapp-lib
- * - several aspects can be modified via the administrator's tab / "site settings"
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
  */
 
 import { PostgreSQL } from "smc-hub/postgres/types";

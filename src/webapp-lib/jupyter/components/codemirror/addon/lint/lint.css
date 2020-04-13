@@ -1,4 +1,13 @@
-/* The lint marker gutter */
+/* 
+ *  This is the default license template.
+ *  
+ *  File: lint.css
+ *  Author: hsy
+ *  Copyright (c) 2020 hsy
+ *  
+ *  To edit this license information: Press Ctrl+Shift+P and press 'Create new License Template...'.
+ */
+
 .CodeMirror-lint-markers {
   width: 16px;
 }

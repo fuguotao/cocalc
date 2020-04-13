@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 The TimeTravel editor -- this is a whole frame tree devoted to exploring
 the history of a file.

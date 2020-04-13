@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import * as $ from "jquery";
 import { callback, delay } from "awaiting";
 import { startswith } from "smc-util/misc2";

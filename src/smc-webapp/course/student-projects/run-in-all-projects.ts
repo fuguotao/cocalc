@@ -1,4 +1,7 @@
-/* Run a shell command (mini terminal) in projects with given id. */
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
 import { start_project, exec } from "../../frame-editors/generic/client";
 

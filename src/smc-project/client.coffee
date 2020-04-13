@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 client.coffee -- A project viewed as a client for a hub.
 
 For security reasons, a project does initiate a TCP connection to a hub,

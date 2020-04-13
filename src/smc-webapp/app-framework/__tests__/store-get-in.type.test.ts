@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { expectType } from "tsd";
 import { Store } from "../Store";
 import { DeepImmutable } from "../immutable-types";

@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Toggle to minimize display of a task (just show first part or everything)
 ###
 

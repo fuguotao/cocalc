@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { List } from "immutable";
 import { Component, React, Rendered } from "../../app-framework";
 import { license_field_names } from "./types";

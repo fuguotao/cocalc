@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { React } from "smc-webapp/app-framework";
 import { merge } from "smc-util/misc2";
 

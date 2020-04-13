@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import * as ms from "ms";
 import { analytics_cookie_name } from "smc-util/misc";
 import * as fs from "fs";

@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 /*
  *      Pig Latin Mode for CodeMirror 2
  *      @author Prasanth Jayachandran

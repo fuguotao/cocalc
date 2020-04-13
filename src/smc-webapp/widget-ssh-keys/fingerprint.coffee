@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 # Adapted from https://github.com/bahamas10/node-ssh-fingerprint
 
 crypto = require('crypto')

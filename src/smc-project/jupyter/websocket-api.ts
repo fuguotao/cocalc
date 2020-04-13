@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 Support for the project's websocket-based request/response API, which is used for handling
 various messages related to working with Jupyter.

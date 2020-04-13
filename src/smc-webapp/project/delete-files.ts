@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { webapp_client } from "../webapp-client";
 
 // Delete the files/directories in the given project with the given list of paths.

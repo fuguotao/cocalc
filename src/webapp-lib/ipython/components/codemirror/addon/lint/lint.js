@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 (function() {
   "use strict";
   var GUTTER_ID = "CodeMirror-lint-markers";

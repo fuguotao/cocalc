@@ -1,13 +1,9 @@
-/* A Patch is an entry in the patches table, as represented
-   in memory locally here.
-*/
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
-import { SyncTable } from "../../table/synctable";
-
-export interface Patch {
-  time: Date; // timestamp of when patch made
-  patch: CompressedPatch /* compressed format patch (stored as a
-                   JSON *string* in database, but array/object here) */;
+;
   user_id: number /* 0-based integer "id" of user
                      syncstring table has id-->account_id map) */;
   snapshot?: string; // to_str() applied to the document at this point in time

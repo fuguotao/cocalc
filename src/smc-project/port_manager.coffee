@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 The port_manager manages the ports for the various servers.
 
 It reads the port from memory or from disk and returns it.

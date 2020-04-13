@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // This file is purely to give HtmlWebpackPlugin an opportunity to pick up these const values
 // In any other place, import from the main schema file
 

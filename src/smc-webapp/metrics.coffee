@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 """
 Reporting of time-consuming events to the backend so we can improve
 the usability of CoCalc.

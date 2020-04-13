@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
  * this manages project configuration specific aspects.
  * It is the corresponding counterpart of smc-project/configuration.ts

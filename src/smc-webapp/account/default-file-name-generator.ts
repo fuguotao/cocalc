@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // Return a default filename with the given ext (or not extension if ext not given)
 // this is just a wrapper for backwards compatibility
 import { NewFilenames, NewFilenameTypes } from "../project/utils";

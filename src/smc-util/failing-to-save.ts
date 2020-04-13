@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
    If we are having repeated hash mismatches when trying to save a particular path,
    then this function will return true.  This can be used by the caller to

@@ -1,4 +1,7 @@
-/* Render a single PDF page using SVG */
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
 import { PDFPageProxy } from "pdfjs-dist/webpack";
 

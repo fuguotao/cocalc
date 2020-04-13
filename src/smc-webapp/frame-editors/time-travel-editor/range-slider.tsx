@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 Range slider to select two versions in order to see the diff between them.
 
 Uses https://github.com/tajo/react-range

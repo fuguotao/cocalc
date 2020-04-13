@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // 3rd Party Libraries
 import * as markdown from "../markdown";
 import { Button, ButtonToolbar, FormControl, FormGroup } from "react-bootstrap";

@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Sync remote stripe view of all users with our local via (in our database).
 
 Should get done eventually mostly via webhooks, etc., -- but for now this is OK.

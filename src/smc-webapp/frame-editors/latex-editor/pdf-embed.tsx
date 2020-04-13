@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 This is a renderer using the embed tag, so works with browsers that have a PDF viewer plugin.
 */
 

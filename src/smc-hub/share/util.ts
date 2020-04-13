@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { readFileSync } from "fs";
 
 // redirect /[uuid] and /[uuid]?query=123 to /[uuid]/ and /[uuid]/?query=123

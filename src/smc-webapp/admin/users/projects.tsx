@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 Show a table with links to recently used projects (with most recent first) that
 
  - account_id: have a given account_id as collaborator; here we

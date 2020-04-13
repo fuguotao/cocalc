@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { WidgetModel, WidgetView } from "@jupyter-widgets/base";
 
 export class ReactModel extends WidgetModel {

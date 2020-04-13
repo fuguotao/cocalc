@@ -1,4 +1,12 @@
-/* Following are the presentation styles -- edit away! */
+/* 
+ *  This is the default license template.
+ *  
+ *  File: pretty.css
+ *  Author: hsy
+ *  Copyright (c) 2020 hsy
+ *  
+ *  To edit this license information: Press Ctrl+Shift+P and press 'Create new License Template...'.
+ */
 
 body {background: #FFF url(bodybg.gif) -16px 0 no-repeat; color: #000; font-size: 2em;}
 :link, :visited {text-decoration: none; color: #00C;}

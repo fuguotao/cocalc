@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { Card, Button } from "antd";
 import { redux, Component, React, Rendered } from "../app-framework";
 import { Space } from "../r_misc";

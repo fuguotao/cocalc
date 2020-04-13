@@ -1,4 +1,7 @@
-/* Toggle diff mode */
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
 import { Rendered, Component, React } from "../../app-framework";
 

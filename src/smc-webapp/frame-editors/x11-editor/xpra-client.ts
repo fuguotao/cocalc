@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // Use Xpra to provide X11 server.
 
 import { retry_until_success } from "smc-util/async-utils";

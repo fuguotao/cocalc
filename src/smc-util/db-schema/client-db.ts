@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // Client side versions of some db functions, which are used, e.g., when setting fields.
 
 import { is_array } from "../misc";

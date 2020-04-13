@@ -1,4 +1,7 @@
-/* From https://stackoverflow.com/questions/3277369/how-to-simulate-a-click-by-using-x-y-coordinates-in-javascript */
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
 export function dblclick(x: number, y: number): void {
   const ev = new MouseEvent("dblclick", {

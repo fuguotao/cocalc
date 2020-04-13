@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 This is some slightly complicated code to avoid needless duplication.
 
 It's a bit more complicated than you might expect partly due to the fact

@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 // Enable transparent server-side requiring of cjsx files.
 require("node-cjsx").transform();
 

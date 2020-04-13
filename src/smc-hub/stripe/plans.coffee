@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Ensure that plans are all correctly defined in stripe.
 
 Stripe API docs https://stripe.com/docs/api/node#create_plan

@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 # React libraries
 {React, ReactDOM, rclass, rtypes}  = require('../app-framework')
 {webapp_client} = require('../webapp_client')

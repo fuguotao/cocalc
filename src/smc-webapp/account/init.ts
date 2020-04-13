@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import * as misc from "smc-util/misc";
 const { webapp_client } = require("../webapp_client");
 const remember_me = webapp_client.remember_me_key();

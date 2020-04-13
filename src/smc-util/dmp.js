@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 /**
  * Diff Match and Patch
  * Copyright 2018 The diff-match-patch Authors.

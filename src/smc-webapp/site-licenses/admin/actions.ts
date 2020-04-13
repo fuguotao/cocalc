@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { Map, Set } from "immutable";
 import { Actions, redux, TypedMap } from "../../app-framework";
 import { SiteLicensesState, SiteLicense, license_field_names } from "./types";

@@ -1,4 +1,7 @@
-/* Utility functions used by other code here. */
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
 import { copy, keys, is_array, deep_copy } from "../../misc2";
 const { SCHEMA } = require("../../schema");

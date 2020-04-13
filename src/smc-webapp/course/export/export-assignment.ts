@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 Export collected homework assignments in a format that is easy to
 use in an external tool that knows nothing about Sage worksheets

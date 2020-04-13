@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { Assign, RequiredKeys } from "utility-types";
 import { Optionals } from "./types";
 

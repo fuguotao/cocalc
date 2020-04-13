@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 TESTING of syncstring related eval user query functionality
 
 COPYRIGHT : (c) 2017 SageMath, Inc.

@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { React } from "../app-framework";
 import { THIRD_PARTY } from "./links";
 import { LinkList } from "./link-list";

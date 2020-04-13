@@ -1,4 +1,7 @@
-/* jQuery plugin to make a div mouse click draggable. */
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
 import * as $ from "jquery";
 

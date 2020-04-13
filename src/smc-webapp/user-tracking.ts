@@ -1,6 +1,7 @@
-/* Provide a typescript-friendly stable interface to user_tracking, so
-   client code doesn't have to import smc_webapp everywhere, and we can
-   completely change this if we want. */
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
 import { callback2 } from "smc-util/async-utils";
 import { query, server_time } from "./frame-editors/generic/client";

@@ -1,4 +1,7 @@
-/* Show a revision version, both with a number and the time. */
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
 import { Rendered, Component, React } from "../../app-framework";
 import { TimeAgo } from "../../r_misc";

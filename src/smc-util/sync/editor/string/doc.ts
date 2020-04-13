@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { CompressedPatch, Document } from "../generic/types";
 import { apply_patch, make_patch } from "../generic/util";
 

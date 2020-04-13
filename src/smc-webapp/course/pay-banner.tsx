@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 A banner across the top of a course that appears if the instructor is not paying in any way, so they
 know they should.
 */

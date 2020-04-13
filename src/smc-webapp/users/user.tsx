@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 //TODO: Make useable without passing in user_map
 
 import { React, Component } from "../app-framework";

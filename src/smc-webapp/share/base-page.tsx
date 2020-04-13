@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 Share server wrapper page -- any page the share server generates with a custom
 share-server look is a child of this.
 */

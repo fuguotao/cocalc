@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { Menu, Dropdown, Button, Icon } from "antd";
 import { merge } from "smc-util/misc2";
 import { Component, React } from "../app-framework";

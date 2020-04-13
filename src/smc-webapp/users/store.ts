@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { Store, redux } from "../app-framework";
 import { UsersState } from "./types";
 import { actions } from "./actions";

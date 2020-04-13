@@ -1,4 +1,9 @@
-/* eslint-disable global-require, import/no-extraneous-dependencies */
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 const postcssConfig = {
   plugins: [require("autoprefixer")],
 };

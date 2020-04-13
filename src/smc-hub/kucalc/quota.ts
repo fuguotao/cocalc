@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // computing project quotas based on settings (by admin/system) and user contributions ("upgrades")
 
 // historical note:

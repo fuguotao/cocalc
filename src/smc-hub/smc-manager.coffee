@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 async   = require('async')
 winston = require('./winston-metrics').get_logger('smc-manager')
 

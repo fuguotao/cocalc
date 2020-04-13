@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 const json_stable_stringify = require("json-stable-stringify");
 import { delay } from "awaiting";
 

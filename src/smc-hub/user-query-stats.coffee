@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Class to track (and report in a log) stats about user_queries by the Rethink interface.
 ###
 

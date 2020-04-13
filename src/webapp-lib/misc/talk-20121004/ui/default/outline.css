@@ -1,4 +1,12 @@
-/* don't change this unless you want the layout stuff to show up in the outline view! */
+/* 
+ *  This is the default license template.
+ *  
+ *  File: outline.css
+ *  Author: hsy
+ *  Copyright (c) 2020 hsy
+ *  
+ *  To edit this license information: Press Ctrl+Shift+P and press 'Create new License Template...'.
+ */
 
 .layout div, #footer *, #controlForm * {display: none;}
 #footer, #controls, #controlForm, #navLinks, #toggle {

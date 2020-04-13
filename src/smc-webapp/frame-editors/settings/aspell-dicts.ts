@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 Got via `aspell dump dicts` on Ubuntu 18.04, after doing `apt-get install aspell-*`,
 and removing dups.  Maybe update this someday...

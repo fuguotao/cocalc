@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Use prom-client in browser!
 
 NOTE: We explicitly import inside the prom-client package, since the index.js

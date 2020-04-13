@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import * as $ from "jquery"; // picks jQuery from @types
 declare const $ = $;
 // declare const $: any; // old more general approach

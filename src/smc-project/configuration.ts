@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
  * This derives the configuration and capabilities of the current project.
  * It is used in the UI to only show/run those elements, which should work.

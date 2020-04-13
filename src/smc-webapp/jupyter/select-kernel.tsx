@@ -1,84 +1,9 @@
 /*
-help users selecting a kernel
-*/
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
-import { React, Component, Rendered } from "../app-framework";
-import {
-  Map as ImmutableMap,
-  List,
-  OrderedMap /*, List as ImmutableList*/,
-} from "immutable";
-import * as misc from "smc-util/misc";
-import { Icon, Loading } from "../r_misc";
-const {
-  Button,
-  Col,
-  Row,
-  ButtonGroup,
-  Checkbox,
-  Alert,
-} = require("react-bootstrap"); // TODO: import types
-import { Kernel } from "./util";
-const { COLORS } = require("smc-util/theme");
-import { JupyterActions } from "./browser-actions";
-
-const row_style: React.CSSProperties = {
-  marginTop: "5px",
-  marginBottom: "5px",
-};
-
-const main_style: React.CSSProperties = {
-  padding: "20px 10px",
-  overflowY: "auto",
-  overflowX: "hidden",
-};
-
-interface KernelSelectorProps {
-  actions: JupyterActions;
-  site_name: string;
-  kernel?: string;
-  kernel_info?: any;
-  default_kernel?: string;
-  ask_jupyter_kernel?: boolean;
-  kernel_selection?: ImmutableMap<string, string>;
-  kernels_by_name?: OrderedMap<string, ImmutableMap<string, string>>;
-  kernels_by_language?: OrderedMap<string, List<string>>;
-  closestKernel?: Kernel;
-}
-
-interface KernelSelectorState {}
-
-export class KernelSelector extends Component<
-  KernelSelectorProps,
-  KernelSelectorState
-> {
-  constructor(props: KernelSelectorProps, context: any) {
-    super(props, context);
-    this.state = {};
-  }
-
-  // the idea here is to not set the kernel, but still render the notebook.
-  // looks like that's not easy, and well, probably incompatible with classical jupyter.
-
-  /*
-    <Row style={row_style} className={"pull-right"}>
-      {this.close_button()}
-    </Row>
-
-  close_button() {
-    return (
-      <Button
-        key={"close"}
-        bsStyle={"default"}
-        onClick={() => this.props.actions.select_kernel(null)}
-      >
-        {"View without kernel"}
-      </Button>
-    );
-  }
-  */
-
-  kernel_name(name: string): string | undefined {
+kernel_name(name: string): string | undefined {
     return this.kernel_attr(name, "display_name");
   }
 

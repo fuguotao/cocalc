@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { PostgreSQL } from "../types";
 import { callback2 } from "../../smc-util/async-utils";
 import { copy_with, len } from "../../smc-util/misc2";

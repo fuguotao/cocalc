@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Saving blobs to hub
 
 CoCalc: Collaborative web-based SageMath, Jupyter, LaTeX and Terminals.

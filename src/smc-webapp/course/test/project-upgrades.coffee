@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 {available_upgrades, current_student_project_upgrades, upgrade_plan} = require('../project-upgrades')
 
 immutable = require('immutable')

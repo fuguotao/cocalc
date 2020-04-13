@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 A cached function from remember_me cookie to account_id.
 Cache expires after 60s, to stop accepting requests from user
 in case they invalidate their cookie.

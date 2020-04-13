@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 History viewer for Tasks notebooks  --- very similar to same file in jupyter/ directory. Refactor!
 ###
 

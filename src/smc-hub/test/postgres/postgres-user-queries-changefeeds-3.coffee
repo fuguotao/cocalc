@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 TESTING of user queries specifically involving changefeeds - part 3 -- collaborators, ...
 
 COPYRIGHT : (c) 2017 SageMath, Inc.

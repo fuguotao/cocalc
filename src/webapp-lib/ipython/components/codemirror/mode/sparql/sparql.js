@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 CodeMirror.defineMode("sparql", function(config) {
   var indentUnit = config.indentUnit;
   var curPunc;

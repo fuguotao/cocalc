@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 FrameTree -- a binary tree of editor frames.
 
 For the first version, these will all be codemirror editors on the same file.

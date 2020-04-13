@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Use ProseMirror to provide a WYSIWYG Markdown editing experience.
 
 Mainly just for fun...

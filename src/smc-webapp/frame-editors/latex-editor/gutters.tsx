@@ -1,32 +1,9 @@
 /*
-Manage codemirror gutters that highlight latex typesetting issues.
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
-NOTE: If there are multiple errors/warnings/etc., on the SAME line, only the last
-one gets a gutter mark, with pref to errors.  The main error log shows everything, so this should be OK.
-*/
-
-import * as React from "react";
-
-import { capitalize } from "smc-util/misc2";
-
-import { Icon, Tip } from "smc-webapp/r_misc";
-
-import { SPEC, SpecItem } from "./errors-and-warnings";
-
-import { IProcessedLatexLog, Error } from "./latex-log-parser";
-
-export function update_gutters(opts: {
-  log: IProcessedLatexLog;
-  set_gutter: Function;
-}): void {
-  for (const group of ["typesetting", "warnings", "errors"]) {
-    // errors last so always shown if multiple issues on a single line!
-    let item: Error;
-    for (item of opts.log[group]) {
-      if (!item.file) continue;
-      if (item.line === null) {
-        /* no gutter mark in a line if there is no line number, e.g., "there were missing refs" */
-        continue;
+continue;
       }
       opts.set_gutter(
         item.file,

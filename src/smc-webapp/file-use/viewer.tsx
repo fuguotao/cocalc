@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { Map as iMap, List as iList } from "immutable";
 import { FileUseInfo } from "./info";
 import { Alert, Button, Col, Row, Grid } from "react-bootstrap";

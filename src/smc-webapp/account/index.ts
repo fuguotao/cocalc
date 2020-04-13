@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 export { AccountStore } from "./store";
 export { AccountActions } from "./actions";
 export { AccountTable } from "./table";

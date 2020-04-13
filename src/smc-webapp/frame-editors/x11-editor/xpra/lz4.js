@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 /*
 This code is copied straight from the upstream Xpra client code.
 I don't know where it comes from or how it relates to any npm

@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // run via
 // $ tsc export-api-doc.ts  && nodejs export-api-doc.js
 // or if you have node-ts: $ ts-node scripts/export-api-doc.ts

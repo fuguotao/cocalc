@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Simplest possible interesting test.
 
 Obviously no actual project -- kucalc -- or containers or anything are running during this test.

@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { SortedPatchList } from "./sorted-patch-list";
 import { Patch } from "./types";
 

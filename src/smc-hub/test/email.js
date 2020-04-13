@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 // this is purely for manual testing: in ./src/smc-hub$ nodejs test/email.js
 
 // it uses the usual database and hence picks up all the site-settings

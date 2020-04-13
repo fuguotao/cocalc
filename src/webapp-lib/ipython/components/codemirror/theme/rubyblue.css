@@ -1,3 +1,13 @@
+/* 
+ *  This is the default license template.
+ *  
+ *  File: rubyblue.css
+ *  Author: hsy
+ *  Copyright (c) 2020 hsy
+ *  
+ *  To edit this license information: Press Ctrl+Shift+P and press 'Create new License Template...'.
+ */
+
 .cm-s-rubyblue { font-family: Trebuchet, Verdana, sans-serif; }	/* - customized editor font - */
 
 .cm-s-rubyblue.CodeMirror { background: #112435; color: white; }

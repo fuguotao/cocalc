@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { PostgreSQL } from "./types";
 import { site_license_hook } from "./site-license/hook";
 

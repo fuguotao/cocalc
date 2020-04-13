@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // TODO: we should refactor our code to not have these window/document/$ references here.
 declare let window, document, $;
 

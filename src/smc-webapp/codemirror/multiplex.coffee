@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Multiplexing mode -- exactly like the original CodeMirror multiplexingMode,
 https://codemirror.net/demo/multiplex.html,
 except use the option start:true to make it so the mode switch pattern

@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { delay } from "awaiting";
 import { React, Component, Rendered, ReactDOM } from "smc-webapp/app-framework";
 import { Map } from "immutable";

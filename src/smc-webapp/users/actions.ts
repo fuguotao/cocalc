@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { Actions, redux } from "../app-framework";
 import { fromJS } from "immutable";
 import { webapp_client } from "../webapp-client";

@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { path_split } from "./misc2";
 
 // NOTE: there are also .term files in subframes with history that doesn't get

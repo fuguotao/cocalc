@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { Component, React, Rendered } from "../app-framework";
 import { Alert, Button, ButtonToolbar, Row, Col } from "react-bootstrap";
 import { Icon } from "../r_misc/icon";

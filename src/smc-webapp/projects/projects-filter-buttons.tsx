@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { React, Component, redux } from "../app-framework";
 import { analytics_event } from "../tracker";
 const { Button, ButtonGroup } = require("react-bootstrap");

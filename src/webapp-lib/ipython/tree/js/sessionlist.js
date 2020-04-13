@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 //----------------------------------------------------------------------------
 //  Copyright (C) 2014  The IPython Development Team
 //

@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 Showing list of users of a project
 */
 import { Component, React, redux, rclass, rtypes } from "../app-framework";

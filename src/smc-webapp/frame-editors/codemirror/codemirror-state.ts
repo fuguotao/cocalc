@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 Save and restore the scroll position of a cm editor in a JSON-friendly format,
 so it can be stored in local storage.

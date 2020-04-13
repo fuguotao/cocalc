@@ -1,4 +1,7 @@
-/* The sign-in banner at the top of the landing page. */
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
 import * as React from "react";
 import { ReactDOM, Rendered } from "../app-framework";

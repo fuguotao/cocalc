@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { Map } from "immutable";
 import { is_different } from "smc-util/misc2";
 import { Component, React, rclass, rtypes } from "../../app-framework";

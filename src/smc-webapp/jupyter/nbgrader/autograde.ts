@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 The function create_autograde_ipynb takes the instructor and student
 stripped ipynb file content (as a string), parses it as JSON and

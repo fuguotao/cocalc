@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import * as React from "react";
 import * as immutable from "immutable";
 import { COLORS, HiddenSM, Icon, Space } from "../../r_misc";

@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { SyncDoc, SyncOpts0, SyncOpts } from "../generic/sync-doc";
 import { StringDocument } from "./doc";
 

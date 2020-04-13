@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { Actions } from "../../app-framework";
 import { MentionsState } from "./store";
 import { MentionInfo, MentionFilter } from "./types";

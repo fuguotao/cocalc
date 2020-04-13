@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 # 3rd Party Libraries
 {Alert, Button, ButtonToolbar, Col, FormControl, FormGroup, ListGroup, ListGroupItem, Panel, Row, Well} = require('react-bootstrap')
 immutable = require('immutable')

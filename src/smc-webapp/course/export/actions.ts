@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { replace_all, split } from "smc-util/misc";
 import { redux } from "../../app-framework";
 import { webapp_client } from "../../webapp-client";

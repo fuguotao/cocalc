@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 // Don't take these too seriously -- the expected results appear to be
 // based on the results of actual runs without any serious manual
 // verification. If a change you made causes them to fail, the test is

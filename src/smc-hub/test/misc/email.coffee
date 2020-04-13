@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 # Email Testing – this is for checking its various misc functions
 # pro tipp: to just run this file, cd to smc-hub and run
 #           SMC_DB_RESET=true SMC_TEST=true npx mocha test/misc/email.coffee

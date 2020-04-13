@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import * as LRU from "lru-cache";
 import { reuseInFlight } from "async-await-utils/hof";
 

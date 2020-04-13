@@ -1,4 +1,7 @@
-/* Show the author of a patch */
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
 import { Map } from "immutable";
 const { User } = require("../../users");

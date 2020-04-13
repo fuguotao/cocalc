@@ -1,4 +1,8 @@
-/* Just enough of CodeMirror to run runMode under node.js */
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
 
 function splitLines(string){ return string.split(/\r?\n|\r/); };
 

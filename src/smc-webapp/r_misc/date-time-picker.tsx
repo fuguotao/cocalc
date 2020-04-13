@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /* A pretty simple API wrapping antd's much more complicated
    date picking api.  Use this if you just need to pick
    a date and time easily.  For more complicated applications,

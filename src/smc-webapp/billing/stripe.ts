@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { callback } from "awaiting";
 import { redux } from "../app-framework";
 import { BillingStore } from "./store";

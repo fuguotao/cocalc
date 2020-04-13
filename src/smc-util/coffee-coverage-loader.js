@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 // run via mocha by adding '--require ./coffee-coverage-loader.js'
 // https://github.com/benbria/coffee-coverage/blob/master/docs/HOWTO-istanbul.md
 

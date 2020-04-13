@@ -1,54 +1,9 @@
 /*
-A single terminal frame.
-*/
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
-import { Map } from "immutable";
-
-import { Terminal } from "./connected-terminal";
-
-import { throttle } from "underscore";
-
-import { background_color } from "./themes";
-
-import { is_different } from "smc-util/misc2";
-
-import { React, Component, Rendered, ReactDOM } from "../../app-framework";
-
-interface Props {
-  actions: any;
-  id: string;
-  path: string;
-  project_id: string;
-  font_size: number;
-  editor_state: any;
-  is_current: boolean;
-  terminal: Map<string, any>;
-  desc: Map<string, any>;
-  resize: number;
-}
-
-export class TerminalFrame extends Component<Props, {}> {
-  static displayName = "TerminalFrame";
-
-  private terminal?: Terminal;
-  private is_mounted: boolean = false;
-
-  shouldComponentUpdate(next): boolean {
-    return is_different(this.props, next, [
-      "id",
-      "project_id",
-      "path",
-      "font_size",
-      "terminal",
-      "desc",
-      "resize",
-    ]);
-  }
-
-  UNSAFE_componentWillReceiveProps(next: Props): void {
-    if (this.props.id != next.id || this.terminal == null) {
-      /* yes, this can change!! -- see https://github.com/sagemathinc/cocalc/issues/3819 */
-      this.delete_terminal();
+this.delete_terminal();
       this.init_terminal();
     }
     if (this.props.font_size !== next.font_size && this.terminal != null) {

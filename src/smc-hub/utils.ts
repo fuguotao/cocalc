@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import * as fs from "fs";
 const winston = require("./winston-metrics").get_logger("utils");
 import { PostgreSQL } from "./postgres/types";

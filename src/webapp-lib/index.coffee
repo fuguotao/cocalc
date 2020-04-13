@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 # CoCalc: Collaborative Calculation in the Cloud
 # Copyright (C) 2017, Sagemath Inc.
 # License: AGPLv3+

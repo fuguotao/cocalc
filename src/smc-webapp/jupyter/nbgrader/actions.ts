@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import * as immutable from "immutable";
 import { JupyterActions } from "../browser-actions";
 import { ImmutableMetadata, Metadata } from "./types";

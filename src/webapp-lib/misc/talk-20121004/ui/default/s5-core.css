@@ -1,4 +1,12 @@
-/* Do not edit or override these styles! The system will likely break if you do. */
+/* 
+ *  This is the default license template.
+ *  
+ *  File: s5-core.css
+ *  Author: hsy
+ *  Copyright (c) 2020 hsy
+ *  
+ *  To edit this license information: Press Ctrl+Shift+P and press 'Create new License Template...'.
+ */
 
 div#header, div#footer, div#controls, .slide {position: absolute;}
 html>body div#header, html>body div#footer, 

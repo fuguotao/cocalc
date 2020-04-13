@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Use ContentEditable to provide a WYSIWYG Markdown editing experience.
 
 Mainly just for fun as a proof of concept  to illustrate having many ways to view/edit a .md file.

@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 # this tests kucalc's quota function
 #
 # after any change to quota.ts, be a good citizen and run this test or even extend it

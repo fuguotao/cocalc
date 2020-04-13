@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 /*
 This is meant entirely for use in development, to easily play with
 and benchmark the backend rendering code purely from a node terminal

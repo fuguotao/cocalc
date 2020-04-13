@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 // This is taken from Jupyter, which is BSD/Apache2 licensed... -- https://github.com/jupyter/notebook/blob/master/notebook/static/notebook/js/mathjaxutils.js
 
 // Some magic for deferring mathematical expressions to MathJax

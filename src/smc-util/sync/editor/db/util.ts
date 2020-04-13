@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // Well-defined JSON.stringify...
 const json_stable = require("json-stable-stringify");
 import * as immutable from "immutable";

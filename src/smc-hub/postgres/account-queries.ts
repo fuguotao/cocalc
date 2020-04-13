@@ -1,4 +1,7 @@
-/* Various functions involving the database and accounts. */
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
 import { PostgreSQL } from "./types";
 

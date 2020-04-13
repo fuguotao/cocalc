@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /**
  *  Need to test permutations of (at all depths):
  *  TypedMap -> immutable.List -> immutable.Map

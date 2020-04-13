@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { Component, React, Rendered } from "../app-framework";
 const { HelpEmailLink } = require("../customize");
 import { PROJECT_UPGRADES } from "smc-util/schema";

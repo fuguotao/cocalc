@@ -1,4 +1,7 @@
-/* Newest answer at https://stackoverflow.com/questions/1043339/javascript-for-detecting-browser-language-preference */
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
 export function language(): string {
   let nav = window.navigator,

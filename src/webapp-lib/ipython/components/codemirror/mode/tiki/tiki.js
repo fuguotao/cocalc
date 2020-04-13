@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 CodeMirror.defineMode('tiki', function(config) {
   function inBlock(style, terminator, returnTokenizer) {
     return function(stream, state) {

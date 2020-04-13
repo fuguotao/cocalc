@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 const { writeFile, unlink } = require("fs");
 const tmp = require("tmp");
 const { callback } = require("awaiting");

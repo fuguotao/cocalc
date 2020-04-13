@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Test suite for PostgreSQL interface and functionality.
 
 WARNING: The server timezone **MUST BE** UTC everywhere, or tests will fail!

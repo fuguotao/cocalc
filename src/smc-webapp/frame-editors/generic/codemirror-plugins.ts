@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /* Declare CodeMirror plugins we use.
 
 It was ridiculously hard to figure out how to declare this in TypeScript!

@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { OptionalKeys } from "utility-types";
 
 export type Optionals<T> = Pick<T, OptionalKeys<T>>;

@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 Apply various transformations to url's before downloading a file using the "+ New" from web thing:
 This is useful, since people often post a link to a page that *hosts* raw content, but isn't raw

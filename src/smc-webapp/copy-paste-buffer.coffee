@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 An internal copy/paste buffer
 
 MOTIVATION: There is no way to sync with the official operating system copy/paste buffer,

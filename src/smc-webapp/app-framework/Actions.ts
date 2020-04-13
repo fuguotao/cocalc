@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { AppRedux } from "../app-framework";
 
 // NOTE: it is intentional that there is no get method.  Instead, get data

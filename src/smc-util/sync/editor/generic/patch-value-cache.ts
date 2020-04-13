@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 The PatchValueCache is used to cache values returned
 by SortedPatchList.value.  Caching is critical, since otherwise

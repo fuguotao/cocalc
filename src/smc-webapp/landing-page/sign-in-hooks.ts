@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /* This is currently only used to store the answer to the user sign up question
    about where they found out about cocalc.
 */

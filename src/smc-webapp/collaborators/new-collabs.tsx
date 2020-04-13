@@ -1,32 +1,8 @@
 /*
-Add collaborators to a project
-*/
-import * as React from "react";
-import { rtypes, rclass, redux } from "../app-framework";
-import { ErrorDisplay, Icon, MarkdownInput, SettingBox } from "../r_misc";
-import { PickerList } from "./picker-list";
-const { webapp_client } = require("../webapp_client");
-const { callback_opts } = require("smc-util/async-utils");
-import * as immutable from "immutable";
-import { User } from "../frame-editors/generic/client";
-import { FormGroup, FormControl, Button, ButtonToolbar } from "react-bootstrap";
-const { SITE_NAME } = require("smc-util/theme");
-const onecolor = require("onecolor");
-import { contains_url } from "smc-util/misc2";
-import { debounce } from "lodash";
-
-import { has_internet_access } from "../upgrades/upgrade-utils";
-import { Project } from "smc-webapp/project/settings/types";
-
-type UserAndProfile = User & {
-  profile: { color?: string; image?: string };
-  is_collaborator?: boolean;
-  is_selected?: boolean;
-};
-
-/**
- * Returns a list of account_id's for users.
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
  */
+
 async function search_for_accounts(search = ""): Promise<UserAndProfile[]> {
   search = search.trim();
   if (search === "") {

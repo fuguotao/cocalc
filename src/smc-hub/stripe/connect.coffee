@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 The stripe connection object, which communicates with the remote stripe server.
 
 Configure via the admin panel in account settings of an admin user.

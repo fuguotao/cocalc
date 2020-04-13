@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Button to empty the trash, thus "permanently" deleting all deleted tasks.
 ###
 

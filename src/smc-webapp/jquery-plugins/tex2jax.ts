@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // This file is **derived from mathjax**.  Original header below.
 // https://github.com/mathjax/MathJax/blob/master/unpacked/extensions/tex2jax.js
 

@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { React, Component, Rendered } from "smc-webapp/app-framework";
 import { Map } from "immutable";
 import { endswith } from "smc-util/misc2";

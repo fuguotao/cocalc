@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 Render the annotation layer on top of a page.
 
 The page itself could be rendered with either SVG or Canvas.

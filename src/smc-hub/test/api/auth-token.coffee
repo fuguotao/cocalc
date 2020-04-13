@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 api   = require('./apitest')
 {setup, teardown} = api
 misc = require('smc-util/misc')

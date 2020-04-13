@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 Extra CodeMirror keybindings that are mainly aimed to make mobile
 external keyboard devices more usable, e.g., iPad.

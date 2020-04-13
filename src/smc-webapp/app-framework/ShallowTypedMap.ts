@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 export interface ShallowTypedMap<TProps extends Record<string, any>> {
   size: number;
 

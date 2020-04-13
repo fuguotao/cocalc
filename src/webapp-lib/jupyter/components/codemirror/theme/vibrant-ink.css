@@ -1,4 +1,12 @@
-/* Taken from the popular Visual Studio Vibrant Ink Schema */
+/* 
+ *  This is the default license template.
+ *  
+ *  File: vibrant-ink.css
+ *  Author: hsy
+ *  Copyright (c) 2020 hsy
+ *  
+ *  To edit this license information: Press Ctrl+Shift+P and press 'Create new License Template...'.
+ */
 
 .cm-s-vibrant-ink.CodeMirror { background: black; color: white; }
 .cm-s-vibrant-ink .CodeMirror-selected { background: #35493c !important; }

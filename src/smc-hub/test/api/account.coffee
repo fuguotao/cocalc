@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Testing API functions relating to users and user accounts
 
 COPYRIGHT : (c) 2017 SageMath, Inc.

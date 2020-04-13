@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { reuseInFlight } from "async-await-utils/hof";
 import { callback } from "awaiting";
 import { callback2 } from "smc-util/async-utils";

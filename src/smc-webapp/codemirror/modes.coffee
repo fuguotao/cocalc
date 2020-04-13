@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Load javascript support for all modes that we support in CoCalc.
 
 NOTE: This is used by the share server, so we can't load css or other stuff

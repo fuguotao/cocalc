@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // common configuration for mapping programming languages (lower case) to formatters
 // this is used by webapp and the project
 

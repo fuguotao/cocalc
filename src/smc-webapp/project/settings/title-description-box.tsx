@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import * as React from "react";
 import { LabeledRow, TextInput, SettingBox } from "../../r_misc";
 import { ProjectsActions } from "../../todo-types";

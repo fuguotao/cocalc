@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 HTTP-based User API
 
 These are authenticated using the cookie only, unlike the secret-key based API.

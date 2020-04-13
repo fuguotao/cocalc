@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 # Library file for SMC webapp
 
 require("script-loader!primus/primus-engine.min.js")

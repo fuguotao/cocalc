@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 // IPython mode is just a slightly altered Python Mode with `?` beeing a extra
 // single operator. Here we define `ipython` mode in the require `python`
 // callback to auto-load python mode, which is more likely not the best things

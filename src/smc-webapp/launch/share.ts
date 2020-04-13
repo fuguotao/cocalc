@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
   With minimal friction copy a share over from some public project
   to a project owned by this user, and point the browser at the directory

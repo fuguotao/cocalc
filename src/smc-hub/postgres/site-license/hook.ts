@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { Map } from "immutable";
 import { isEqual } from "lodash";
 import { PostgreSQL } from "../types";

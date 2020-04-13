@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 /*
   DTD mode
   Ported to CodeMirror by Peter Kroon <plakroon@gmail.com>

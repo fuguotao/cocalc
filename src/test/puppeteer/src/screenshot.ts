@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import chalk from "chalk";
 import { Opts } from "./types";
 import { Page } from "puppeteer";

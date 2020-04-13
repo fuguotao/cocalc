@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // Use clean in-memory blob store for tests.
 process.env.JUPYTER_BLOBS_DB_FILE = "memory";
 

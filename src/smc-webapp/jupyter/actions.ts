@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 Jupyter actions -- these are the actions for the underlying document structure.
 This can be used both on the frontend and the backend.

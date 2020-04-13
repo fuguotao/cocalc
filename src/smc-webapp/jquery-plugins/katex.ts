@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 jQuery plugin to use KaTeX when possible to typeset all the math in a
 jQuery DOM tree.

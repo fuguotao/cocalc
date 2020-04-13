@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 This code is inspired by the BSD licensed Jupyter code, in order to maintain
 a compatible interpretation of how things work:

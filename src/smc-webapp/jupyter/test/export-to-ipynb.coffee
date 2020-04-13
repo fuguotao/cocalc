@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 actions = store = undefined
 setup = (cb) -> (require('./setup').setup (err, x) -> actions=x; store=x?.store; cb(err))
 {teardown} = require('./setup')

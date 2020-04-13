@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 // IPython GFM (GitHub Flavored Markdown) mode is just a slightly altered GFM
 // Mode with support for latex.
 //

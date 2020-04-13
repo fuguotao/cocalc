@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 export { A } from "./A";
 export { Icon } from "./icon";
 export { Tip } from "./tip";

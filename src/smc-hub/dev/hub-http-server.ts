@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /* Functionality specific to the hub http server when hub is in dev mode.
 
 Proxy server urls -- on SMC in production, HAproxy sends these requests directly to the proxy server

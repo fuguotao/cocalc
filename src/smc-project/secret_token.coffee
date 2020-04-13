@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 secret_token.coffee -- Generate the "secret_token" file if it does not already
 exist.  All connections to all local-to-the user services that
 CoCalcs starts must be prefixed with this key.

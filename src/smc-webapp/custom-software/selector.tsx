@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { Component, React, Rendered } from "../app-framework";
 import { ComputeImages, ComputeImage, ComputeImageTypes } from "./init";
 const { SiteName, CompanyName, HelpEmailLink } = require("../customize");

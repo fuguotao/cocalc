@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 PostgreSQL database entry point.
 Do not import any of the submodules directly unless you
 know exactly what you're doing.

@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 matches = (s, desc) ->
     if desc.indexOf(s) == -1
         return false

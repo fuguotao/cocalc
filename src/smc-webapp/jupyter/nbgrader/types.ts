@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // See https://nbgrader.readthedocs.io/en/stable/contributor_guide/metadata.html
 // ... which is out of date as I make the most recent change...
 

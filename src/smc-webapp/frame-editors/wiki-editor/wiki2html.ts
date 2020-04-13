@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 Convert Mediawiki file to hidden HTML file, which gets displayed in an iframe with
 src pointed to this file (via raw server).

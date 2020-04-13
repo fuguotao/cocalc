@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 PostgreSQL -- implementation of queries needed for storage and managing blobs,
 including backups, integration with google cloud storage, etc.
 

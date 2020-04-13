@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 // If we're in node require encoding-indexes and attach it to the global.
 if (typeof module !== "undefined" && module.exports) {
   this["encoding-indexes"] = require("./encoding-indexes.js")["encoding-indexes"];

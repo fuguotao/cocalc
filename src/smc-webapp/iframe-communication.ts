@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // This makes it possible to communicate between a host page and CoCalc in an embedded IFrame in a clean way.
 //
 // It listens to `postMessage`'s and dispatches actions accordingly.

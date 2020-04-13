@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 (function() {
   var mode = CodeMirror.getMode({indentUnit: 2}, "ruby");
   function MT(name) { test.mode(name, mode, Array.prototype.slice.call(arguments, 1)); }

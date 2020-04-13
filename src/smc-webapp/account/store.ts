@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import * as lodash from "lodash";
 import { Store } from "../app-framework/Store";
 import { AccountState } from "./types";

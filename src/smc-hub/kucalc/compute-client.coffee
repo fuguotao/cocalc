@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 Compute client for use in Kubernetes cluster by the hub.
 
 The hub uses this module to get information about a project.  This is meant

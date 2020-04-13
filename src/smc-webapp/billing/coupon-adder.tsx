@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 This is a minimal viable implementation of coupons.
 
 TODO: Here is some "obvious" missing functionality.

@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { to_human_list } from "../smc-util/misc";
 import { re_url } from "../smc-util/misc2";
 export { contains_url } from "../smc-util/misc2";

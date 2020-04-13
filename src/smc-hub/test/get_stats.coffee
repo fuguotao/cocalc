@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 # little helper for developing get_stats against the current dev database
 
 postgres = require('../postgres')

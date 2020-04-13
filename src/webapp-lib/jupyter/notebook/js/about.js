@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 // Copyright (c) IPython Development Team.
 // Distributed under the terms of the Modified BSD License.
 require([

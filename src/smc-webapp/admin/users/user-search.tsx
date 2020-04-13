@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 Functionality and UI to ensure a user with given email (or account_id) is sync'd with stripe.
 */
 

@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // Used to make code cleaner without having to have lots of cases
 // depending on whether syncstring is defined or undefined.
 import { EventEmitter } from "events";

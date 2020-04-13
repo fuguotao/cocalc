@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 Introspect -- display information related to help, source code,
 etc., about a Jupyter notebook.  This is what appears as a pop-over
 on the bottom half the of the screen for Jupyter classic.

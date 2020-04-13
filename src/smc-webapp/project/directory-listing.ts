@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { server_time } from "smc-util/misc";
 import { callback2, once, retry_until_success } from "smc-util/async-utils";
 const { webapp_client } = require("../webapp_client");

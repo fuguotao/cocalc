@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // NOTE: some code here is similar to code in
 // src/smc-webapp/course/configuration/upgrades.tsx
 

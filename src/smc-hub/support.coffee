@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 # Handling support tickets for users -- currently a Zendesk wrapper.
 # (c) 2016, SageMath, Inc.
 # License: GPLv3

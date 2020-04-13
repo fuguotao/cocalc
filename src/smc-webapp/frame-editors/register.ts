@@ -1,4 +1,7 @@
-/* Register the frame-tree based editors. */
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
 import "./generic/jquery-plugins";
 import "./code-editor/register"; // should be first.

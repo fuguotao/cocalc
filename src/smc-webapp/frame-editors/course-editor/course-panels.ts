@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { wrap } from "./course-panel-wrapper";
 
 import { AssignmentsPanel } from "../../course/assignments/assignments-panel";

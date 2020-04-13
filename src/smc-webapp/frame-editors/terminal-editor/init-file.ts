@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 const { console_init_filename } = require("smc-util/misc");
 import { exec } from "../generic/client";
 

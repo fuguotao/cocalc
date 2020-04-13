@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 The update_site_license_usage_log function exported from this file should be called
 periodically to make the site_license_usage_log table contain useful information

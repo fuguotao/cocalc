@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // Site Settings Config for the servers (hubs)
 // They are only visible and editable for admins and services.
 // in particular, this includes the email backend config, Stripe, etc.

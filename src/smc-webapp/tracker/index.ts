@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // `analytics` is a generalized wrapper for reporting data to google analytics, pwiki, parsley, ...
 // for now, it either does nothing or works with GA
 // this API basically allows to send off events by name and category

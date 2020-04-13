@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 # Loading and configuring the codemirror editor
 
 window.CodeMirror = CodeMirror = require('codemirror')

@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 Simple http server that serves share server, is used for local
 development (cc-in-cc), the Docker image, and in production for

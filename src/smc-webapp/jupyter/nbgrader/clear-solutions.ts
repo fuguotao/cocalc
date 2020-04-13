@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /* Port to Typescript of what this does:
      nbgrader/nbgrader/preprocessors/clearsolutions.py
 

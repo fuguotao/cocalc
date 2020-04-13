@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 React component that describes a single cell
 
         editable={cell.getIn(["metadata", "editable"], true)}

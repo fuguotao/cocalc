@@ -1,4 +1,9 @@
-###############################################################################
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
+############################################################################
 #
 # CoCalc: Collaborative web-based calculation
 # Copyright (C) 2017, Sagemath Inc.

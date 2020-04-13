@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 module.exports = {
   parser: "@typescript-eslint/parser",
   plugins: ["react-hooks"],

@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 React component for inserting a link
 
 Basically done-ish, but not using since I already have this and related commands

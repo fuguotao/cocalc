@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // This code may get compiled by the backend project, so make it work without DOM declarations.
 declare const window: any;
 declare const document: any;

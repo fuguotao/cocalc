@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 Raw editable view of .ipynb file json, including metadata.
 
 WARNING:  There are many similarities between the code in this file and in

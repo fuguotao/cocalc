@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // Default settings to customize a given site, typically a private install of CoCalc.
 
 const { is_valid_email_address } = require("smc-util/misc");

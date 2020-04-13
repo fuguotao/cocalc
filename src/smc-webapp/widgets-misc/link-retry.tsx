@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { Component, Rendered, React } from "../app-framework";
 
 import { Loading, Space, Icon } from "../r_misc";

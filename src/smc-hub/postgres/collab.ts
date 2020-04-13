@@ -1,4 +1,7 @@
-/* Adding (and later removing) collaborators to/from projects. */
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
 import { PostgreSQL } from "./types";
 

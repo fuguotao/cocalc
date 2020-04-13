@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 // Highlighting text that matches the selection
 //
 // Defines an option highlightSelectionMatches, which, when enabled,

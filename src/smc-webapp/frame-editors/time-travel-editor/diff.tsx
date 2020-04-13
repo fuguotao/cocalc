@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 Render a diff of two versions of a document for use in TimeTravel.
 
 NOTE: I did extensively test out using https://github.com/praneshr/react-diff-viewer.

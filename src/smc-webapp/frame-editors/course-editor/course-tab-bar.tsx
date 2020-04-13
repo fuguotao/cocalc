@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /* This provides a tab bar to switch between various frame types.
 
 It looks good and provides backwards UX compatibility for our users,

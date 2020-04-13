@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { Component, React, rclass, rtypes, Rendered } from "../app-framework";
 import { Icon, Loading, TimeAgo } from "../r_misc";
 import { ProgressBar, Table } from "react-bootstrap";

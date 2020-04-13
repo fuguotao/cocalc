@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 HTTP server for getting various information from Jupyter, without
 having to go through the websocket connection and messaging.  This is

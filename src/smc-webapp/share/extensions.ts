@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /*
 Various logic depends on filename extensions, so it is good to centralize that to avoid
 duplicating code.  What's below may be pretty dumb though (and we should use some

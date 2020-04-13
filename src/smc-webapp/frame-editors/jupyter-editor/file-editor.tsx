@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 Frame for editing a code file (e.g., .py, .c, etc.), that would typically be
 importing into the main notebook.
 

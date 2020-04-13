@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { deep_copy } from "../misc";
 const { DEFAULT_QUOTAS } = require("../upgrade-spec");
 import { DEFAULT_COMPUTE_IMAGE } from "./defaults";

@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /* Use this component to make an anchor tag that
    opens in a new tab in the right way, namely
    with rel=noopener.  This avoids sharing cpu

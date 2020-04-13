@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 // mathjax configuration: this could be cleaned up further or even parameterized with some code during startup
 // ATTN: do not use "xypic.js", frequently causes crash!
 

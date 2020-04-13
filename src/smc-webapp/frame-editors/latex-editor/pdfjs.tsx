@@ -1,49 +1,9 @@
 /*
-This is a renderer using pdf.js.
-*/
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
 
-// We render pages within a window of this many pixels around
-// the top of the visible page.  Making this bigger makes it
-// less likely the user will see a blank page for a moment, but
-// also potentially makes things feel slightly slower and heavier.
-const WINDOW_SIZE: number = 3000;
-const HIGHLIGHT_TIME_S: number = 6;
-
-import { Icon, Loading, Markdown } from "smc-webapp/r_misc";
-import { Alert } from "antd";
-
-import { delay } from "awaiting";
-import { Map, Set } from "immutable";
-import { throttle } from "underscore";
-import * as $ from "jquery";
-import { is_different, seconds_ago, list_alternatives } from "smc-util/misc2";
-import { dblclick } from "./mouse-click";
-import {
-  Component,
-  React,
-  ReactDOM,
-  rclass,
-  rtypes,
-  Rendered,
-} from "../../app-framework";
-import { getDocument, url_to_pdf } from "./pdfjs-doc-cache";
-import { Page, PAGE_GAP } from "./pdfjs-page";
-import { SyncHighlight } from "./pdfjs-annotation";
-import { PDFDocumentProxy, PDFPageProxy } from "pdfjs-dist/webpack";
-
-// Ensure this jQuery plugin is defined:
-import "./mouse-draggable";
-
-interface PDFJSProps {
-  id: string;
-  actions: any;
-  editor_state: Map<string, any>;
-  is_fullscreen: boolean;
-  project_id: string;
-  path: string;
-  reload: number;
-  font_size: number;
-  renderer: string /* "canvas" or "svg" */;
+;
   is_current: boolean;
   status: string;
 

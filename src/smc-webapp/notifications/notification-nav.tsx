@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import * as React from "react";
 import { MentionFilter } from "./mentions/types";
 const { Nav, NavItem } = require("react-bootstrap");

@@ -1,4 +1,9 @@
 /*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
+/*
 Component that allows a user to select a directory in a project.
 
 - [ ] text box to filter what is shown (?)

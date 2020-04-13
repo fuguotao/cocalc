@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 require("ts-node").register({
   project: __dirname + "/../tsconfig.json",
   cacheDirectory: "/tmp",

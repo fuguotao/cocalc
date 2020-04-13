@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 PostgreSQL -- operations code, e.g., backups, maintenance, etc.
 
 COPYRIGHT : (c) 2017 SageMath, Inc.

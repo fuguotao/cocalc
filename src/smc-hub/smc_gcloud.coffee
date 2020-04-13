@@ -1,4 +1,7 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
 
 ** Deprecated: THIS WAS tons of work, but really Kubernetes is the way to go... **
 

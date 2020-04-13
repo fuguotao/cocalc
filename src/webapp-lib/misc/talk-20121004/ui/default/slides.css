@@ -1,3 +1,13 @@
+/* 
+ *  This is the default license template.
+ *  
+ *  File: slides.css
+ *  Author: hsy
+ *  Copyright (c) 2020 hsy
+ *  
+ *  To edit this license information: Press Ctrl+Shift+P and press 'Create new License Template...'.
+ */
+
 @import url(s5-core.css); /* required to make the slide show run at all */
 @import url(framing.css); /* sets basic placement and size of slide components */
 @import url(pretty.css);  /* stuff that makes the slides look better than blah */

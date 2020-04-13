@@ -1,3 +1,8 @@
+###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 # 3rd Party Libraries
 immutable = require('immutable')
 sha1 = require("sha1");

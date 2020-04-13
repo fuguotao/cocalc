@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 import { React, Rendered, Component } from "../app-framework";
 
 /* This is a TERRIBLE AD INFESTED DISASTER. It's way too embarassing to deploy. */

@@ -1,3 +1,9 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ *  
+ */
+
 CodeMirror.defineMode("yaml", function() {
 
   var cons = ['true', 'false', 'on', 'off', 'yes', 'no'];

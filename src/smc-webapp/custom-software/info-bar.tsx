@@ -1,3 +1,8 @@
+/*
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 // in "Files", this shows some information and action buttons related to the custom software environment
 
 import { Component, React } from "../app-framework";

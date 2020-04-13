@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 PostgreSQL -- implementation of all the queries needed for the backend servers
 
 These are all the non-reactive non-push queries, e.g., adding entries to logs,

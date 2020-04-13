@@ -1,3 +1,8 @@
+/* 
+ *  Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+ *  License: see LICENSE.md
+ */
+
 /* enable fullscreen mode upon a URL like /app?fullscreen and additionally
    kiosk-mode upon /app?fullscreen=kiosk
 */

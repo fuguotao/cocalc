@@ -1,4 +1,8 @@
 ###
+# Copyright: 2012 - 2020 by CoCalc by Sagemath, Inc.
+# License: see LICENSE.md
+###
+
 API for handling the messages described smc-util/message.coffee
 
 AGPLv3, (c) 2017, SageMath, Inc.
